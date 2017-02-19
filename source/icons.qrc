@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/open.png</file>
+        <file>icon/analyze.png</file>
+        <file>icon/setR.png</file>
+        <file>icon/setM.png</file>
+        <file>icon/showResults.png</file>
+        <file>icon/setThreshold.png</file>
+        <file>icon/save.png</file>
+        <file>icon/3DMicroscope.ico</file>
+        <file>icon/qt-logo@4x.png</file>
+    </qresource>
+</RCC>
