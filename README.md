@@ -1,5 +1,5 @@
 # 3DMicroscope
-3D Microscope is a program that transforms multiple images at different focus levels into one image and generates a 3D profile.
+3D Microscope is a program that transforms multiple images at different focus levels into one image and generates a 3D profile. It's written and compiled using Qt(TM).
 
 INTRODUCTION
 
@@ -39,7 +39,7 @@ USAGE
 
 COMPLEXITY
 
-The present algorithms have a time complexity of O(XYRn). Here n signifies the total number of pixels in all the images. The space complexity is O(XYn).
+The present algorithms have a time complexity of O(XYRn). Here n signifies the total number of images. The space complexity is O(XYn).
 Modern imaging devices are capable of producing 10 Megapixel images or better. On the testing computer, it took approximately 10 seconds to process one 10 Megapixel image.
 
 CAUTION
