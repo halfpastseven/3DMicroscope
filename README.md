@@ -3,7 +3,7 @@
 
 INTRODUCTION
 
-Optical microscopes have the intrinsic disadvantage of short depth of focus. That means, if the surface is slightly rough, features with different heights will not be focused on the same plane. This limits the application of optical microscopy.
+Optical microscopes have the intrinsic disadvantage of short depth of field. That means, if the surface is slightly rough, features with different heights will not be focused on the same plane. This limits the application of optical microscopy.
 
 This work addresses this limitation of microscopy. It will transform any phogographic microscope into a 3D microscope. This is done by first taking a series of pictures at different focal levels, then processing them into a single composite image and a 3-dimensional profile.
 
